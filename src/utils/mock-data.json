@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "label": "Name",
+    "value": "name"
+  },
+  {
+    "id": 2,
+    "label": "Email",
+    "value": "email"
+  },
+  {
+    "id": 3,
+    "label": "Phone",
+    "value": "phone",
+    "children": [
+      {
+        "id": 13,
+        "label": "Mobile",
+        "value": "mobile"
+      },
+      {
+        "id": 14,
+        "label": "Home",
+        "value": "home",
+        "children": [
+          {
+            "id": 16,
+            "label": "Home 1",
+            "value": "home1"
+          },
+          {
+            "id": 17,
+            "label": "Home 2",
+            "value": "home2"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "label": "Work",
+        "value": "work"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "label": "Address",
+    "value": "address"
+  },
+  {
+    "id": 5,
+    "label": "City",
+    "value": "city"
+  },
+  {
+    "id": 6,
+    "label": "State",
+    "value": "state"
+  },
+  {
+    "id": 7,
+    "label": "Zip",
+    "value": "zip"
+  },
+  {
+    "id": 8,
+    "label": "Country",
+    "value": "country"
+  },
+  {
+    "id": 9,
+    "label": "Company",
+    "value": "company"
+  },
+  {
+    "id": 10,
+    "label": "Title",
+    "value": "title"
+  },
+  {
+    "id": 11,
+    "label": "Website",
+    "value": "website"
+  },
+  {
+    "id": 12,
+    "label": "Notes",
+    "value": "notes"
+  }
+]
